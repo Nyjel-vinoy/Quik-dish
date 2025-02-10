@@ -9,7 +9,6 @@ Quik-Dish is a **modern food delivery app** built using **Flutter**, providing a
 - **Home Page** – Browse food items from various restaurants.  
 - **Wallet System** – Add money using **Stripe API** for quick payments.  
 - **Profile Page** – Manage user details and preferences.  
-- **Order Management** – Place and track food orders in real time.  
 
 ### 🎛 Admin Features  
 - **Food Item Management** – Add new food items dynamically **without modifying the code**.  
