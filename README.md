@@ -24,3 +24,12 @@ Quik-Dish is a **modern food delivery app** built using **Flutter**, providing a
 ## 📸 Screenshots  
 _Add relevant screenshots of your app interface._  
 ![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/c5e294ced69c08e1af32e84d19098a0a0fbbc9af/screenshot1.jpeg)
+![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot2.jpeg)
+![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot3.jpeg)
+![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot4.jpeg)
+![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot5.jpeg)
+![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot6.jpeg)
+![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot8.jpeg)
+
+
+
