@@ -24,8 +24,3 @@ Quik-Dish is a **modern food delivery app** built using **Flutter**, providing a
 ## 📸 Screenshots  
 _Add relevant screenshots of your app interface._  
 
-## 📥 Installation  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/Quik-Dish.git
