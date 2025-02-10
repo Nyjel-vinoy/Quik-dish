@@ -22,15 +22,27 @@ Quik-Dish is a **modern food delivery app** built using **Flutter**, providing a
 - **Provider / Riverpod** – State management (if used).  
 
 ## 📸 Screenshots  
-_Add relevant screenshots of your app interface._  
-![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/c5e294ced69c08e1af32e84d19098a0a0fbbc9af/screenshot1.jpeg)
-![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot2.jpeg)
-![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot3.jpeg)
-![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot4.jpeg)
-![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot5.jpeg)
-![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot6.jpeg)
-![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/b943654ef7b6505c7012edfeb9e6c096e07d7691/screenshot17.jpeg)
-![Screenshot](https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot8.jpeg)
+
+<p align="center">
+  <img src="https://github.com/Nyjel-vinoy/Quik-dish/blob/c5e294ced69c08e1af32e84d19098a0a0fbbc9af/screenshot1.jpeg" width="300">
+  <img src="https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot2.jpeg" width="300">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot3.jpeg" width="300">
+  <img src="https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot4.jpeg" width="300">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot5.jpeg" width="300">
+  <img src="https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot6.jpeg" width="300">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Nyjel-vinoy/Quik-dish/blob/b943654ef7b6505c7012edfeb9e6c096e07d7691/screenshot17.jpeg" width="300">
+  <img src="https://github.com/Nyjel-vinoy/Quik-dish/blob/1b2955016eb2c3bb3dd6bff6f06b7729fc947a99/screenshot8.jpeg" width="300">
+</p>
+
 
 
 
